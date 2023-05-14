@@ -6,4 +6,4 @@ My GitHub repositories showcase my work in Blockchain Security (till now):
 I'm always looking for new opportunities to collaborate with other security professionals and to contribute to the wider security community. If you're interested in working together or have any questions about my work, don't hesitate to get in touch. Together, we can make the world a safer place.
 
 - 🔭 I’m currently working on Blockchain Security
-- 🌱 I’m currently learning anything related with Security for Blockchain
+- 🌱 I’m currently learning Rust for Blockchain
